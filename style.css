@@ -1,0 +1,27 @@
+img{
+    height:100px;
+    border-radius:50px;
+    border:3px solid grey;
+}
+#camera
+{
+    width: 360px;
+    height: 250px;
+    border: 1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;;
+}
+
+#selfie_image
+{
+    width: 150px;
+    border-radius: 100px;
+}
+
+#textbox
+{
+    width: 300px;
+}
